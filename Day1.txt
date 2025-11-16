@@ -1,0 +1,26 @@
+Self-Test (MCQs) — Answers
+
+1️⃣ What is the main purpose of the AI-Native Era?
+Answer: b) Empower developers through AI tools
+
+2️⃣ What defines an AI-driven developer?
+Answer: b) Creates context-aware prompts
+
+3️⃣ What does “AIDD” stand for?
+Answer: b) AI-Driven Development
+
+4️⃣ What is the focus of Evaluation-Driven Development (EvDD)?
+Answer: b) Evaluating and improving AI outputs
+
+5️⃣ What should developers focus on in the AI era?
+Answer: b) Building reasoning + evaluation skills
+
+✍️ Reflection — AI-Driven Development & Human–AI Collaboration
+
+AI-Driven Development (AIDD) mere liye wo era hai jahan software development sirf manual coding nahi, balki AI ke saath collaboration ban chuka hai. Ab developer ka kaam sirf syntax type karna nahi, balki AI ke outputs ko guide, evaluate, improve, aur integrate karna hai.
+
+October 2025 ke AI Turning Point ne duniya ko yeh dikhaya ke AI coding agents mainstream ho gaye aur developers ki productivity 5–10× barh gayi. Iska matlab hai ke coding ab sirf “type karna” nahi, balki strategy, reasoning, aur creative problem-solving ban gayi hai.
+
+Future me Human–AI collaboration ka matlab ye hoga ke developer aur AI mil kar intelligent systems banayenge: AI repetitive aur complex tasks handle karega, aur insan vision, decision-making, aur quality control karega. Is partnership se software development fast, smarter, aur zyada innovative ho jayegi.
+
+Main imagine karti hoon ke agle kuch saalon me har developer ka role AI collaborator ban jayega — jahan creativity aur logic AI ke saath merge hogi, aur development ke naye standards set honge.
